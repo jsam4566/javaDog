@@ -23,7 +23,7 @@ public class Dog {
         this.name = name;
         this.age = age;
     }
-    //methods
+    //method
     public void bark(){
         System.out.println(name + " says: Ruff!");
     }

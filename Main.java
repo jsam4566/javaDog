@@ -27,7 +27,7 @@ public class Main {
         System.out.println("Age: " + wolf.getAge());
         System.out.println("Color: " + wolf.getColor());
 
-        //Setters
+        //Setter
         snoopy.setName("Noodles");
         System.out.println("Snoopy's new name is: " + snoopy.getName());
 
